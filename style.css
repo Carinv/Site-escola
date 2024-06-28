@@ -1,4 +1,12 @@
-body {
+.cabecalho-imagem{
+width: 20%;
+}
+
+.cabecalho {
    background-color:#6d0606 ; 
    color: white;
+   display:flex;
+   justify-content: space-around;
 }
+   
+   
